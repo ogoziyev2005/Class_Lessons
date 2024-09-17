@@ -1,3 +1,7 @@
 /Users/o.goziyev/CLionProjects/Class_work/cmake-build-debug/CMakeFiles/Class_work.dir
+/Users/o.goziyev/CLionProjects/Class_work/cmake-build-debug/CMakeFiles/Second_project.dir
+/Users/o.goziyev/CLionProjects/Class_work/cmake-build-debug/CMakeFiles/Third_Project.dir
+/Users/o.goziyev/CLionProjects/Class_work/cmake-build-debug/CMakeFiles/fourth_Project.dir
+/Users/o.goziyev/CLionProjects/Class_work/cmake-build-debug/CMakeFiles/Problem_6.dir
 /Users/o.goziyev/CLionProjects/Class_work/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/o.goziyev/CLionProjects/Class_work/cmake-build-debug/CMakeFiles/rebuild_cache.dir
